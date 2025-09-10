@@ -1,15 +1,10 @@
-
-<p align="center">
-	<img src="images/svg/header_en.svg" width="80%"/>
-</p>
-
-<h2 align="center">Hi, I'm <span style="color:#38B2AC">superdev118</span>!</h2>
+<h2 align="center">Hi, I'm <span style="color:#38B2AC">Devon Lutz</span>!</h2>
 
 <p align="center">
 	<b>AI-Driven Innovator | Full Stack Engineer | Problem Solver</b>
 </p>
 
-<p align="center">
+<p>
 	🌱 Building scalable, high-impact digital products in healthcare, finance, and education.<br>
 	🛠️ Automating, integrating AI, and optimizing systems for real-world impact.<br>
 	👨‍💻 10+ years in full-stack web/mobile, cloud, and AI-powered solutions.
@@ -22,7 +17,7 @@
 <details>
 <summary><b>🔧 Frameworks & Libraries</b></summary>
 
-<p>
+<p style="margin-top:16px;">
 	<img src="https://img.shields.io/badge/REACT-61DAFB.svg?&style=flat&logo=react&logoColor=black"/>
 	<img src="https://img.shields.io/badge/NEXT.JS-000000.svg?&style=flat&logo=nextdotjs&logoColor=white"/>
 	<img src="https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white"/>
@@ -42,7 +37,7 @@
 <details>
 <summary><b>☁️ DevOps & Cloud</b></summary>
 
-<p>
+<p style="margin-top:16px;">
 	<img src="https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white"/>
 	<img src="https://img.shields.io/badge/ANSIBLE-%231A1918.svg?&style=flat&logo=ansible&logoColor=white"/>
 	<img src="https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white"/>
@@ -55,7 +50,7 @@
 <details>
 <summary><b>📊 Databases</b></summary>
 
-<p>
+<p style="margin-top:16px;">
 	<img src="https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white"/>
 	<img src="https://img.shields.io/badge/MYSQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white"/>
 	<img src="https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white"/>
@@ -91,5 +86,19 @@
 <p>
 	<b>Let’s build, learn, and create together.</b><br>
 	<i>“Collaboration sparks innovation—let’s connect!”</i>
+</p>
+
+---
+
+<h3>📈 GitHub Activity</h3>
+
+<p align="center">
+	<a href="https://github.com/devonlutz">
+		<img src="https://github-readme-stats.vercel.app/api?username=devonlutz&show_icons=true&theme=default" alt="devonlutz's GitHub stats"/>
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/devonlutz">View more on GitHub →</a>
 </p>
 
