@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm <span style="color:#38B2AC">Devon Lutz</span>!</h2>
+<h2 align="center">Hi, I'm <span style="color:#38B2AC">Iyanna Gibson</span>!</h2>
 
 <p align="center">
 	<b>AI-Driven Innovator | Full Stack Engineer | Problem Solver</b>
@@ -93,12 +93,12 @@
 <h3>📈 GitHub Activity</h3>
 
 <p align="center">
-	<a href="https://github.com/devonlutz">
-		<img src="https://github-readme-stats.vercel.app/api?username=devonlutz&show_icons=true&theme=default" alt="devonlutz's GitHub stats"/>
+	<a href="https://github.com/fiyannadev">
+		<img src="https://github-readme-stats.vercel.app/api?username=fiyannadev&show_icons=true&theme=default" alt="Iyanna's GitHub stats"/>
 	</a>
 </p>
 
 <p align="center">
-	<a href="https://github.com/devonlutz">View more on GitHub →</a>
+	<a href="https://github.com/fiyannadev">View more on GitHub →</a>
 </p>
 
