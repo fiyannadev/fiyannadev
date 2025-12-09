@@ -26,11 +26,13 @@
 	<img src="https://img.shields.io/badge/DJANGO-092E20.svg?&style=flat&logo=django&logoColor=white"/>
 	<img src="https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white"/>
 	<img src="https://img.shields.io/badge/HIBERNATE-121011.svg?&style=flat&logo=red-hat&logoColor=white"/>
+	<img src="https://img.shields.io/badge/.NET-512BD4.svg?&style=flat&logo=dotnet&logoColor=white"/>
+	<img src="https://img.shields.io/badge/C%23-239120.svg?&style=flat&logo=csharp&logoColor=white"/>
 </p>
 
 <ul>
 	<li><b>Frontend:</b> React, Angular, Next.js, Tailwind CSS, TypeScript, JavaScript</li>
-	<li><b>Backend:</b> Django, NestJS, Spring, Hibernate, Node.js, APIs, Microservices</li>
+	<li><b>Backend:</b> Django, NestJS, Spring, Hibernate, .NET, C#, Node.js, APIs, Microservices</li>
 </ul>
 </details>
 
