@@ -91,16 +91,3 @@
 </p>
 
 ---
-
-<h3>📈 GitHub Activity</h3>
-
-<p align="center">
-	<a href="https://github.com/fiyannadev">
-		<img src="https://github-readme-stats.vercel.app/api?username=fiyannadev&show_icons=true&theme=default" alt="Iyanna's GitHub stats"/>
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://github.com/fiyannadev">View more on GitHub →</a>
-</p>
-
