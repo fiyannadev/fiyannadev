@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm <span style="color:#38B2AC">Iyanna Gibson</span>!</h2>
+<h2 align="center">Hi, I'm <span style="color:#38B2AC">Lisa Miller</span>!</h2>
 
 <p align="center">
 	<b>AI-Driven Innovator | Full Stack Engineer | Problem Solver</b>
